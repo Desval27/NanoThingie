@@ -1,4 +1,4 @@
-# Prototyping Carrier Board for the Daisy Seed™ 
+# Prototyping Carrier Board for the Arduino Nano/NanoR4™ 
 
 [Nano Family Store](https://store.arduino.cc/pages/nano-family)
 
