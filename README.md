@@ -1,6 +1,6 @@
 # Prototyping Carrier Board for the Arduino Nano/NanoR4™ 
 
-WIP
+WIP and Largely Incomplete
 
 [Nano Family Store](https://store.arduino.cc/pages/nano-family)
 
